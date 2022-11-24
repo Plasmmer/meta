@@ -1,0 +1,15 @@
+Future comp
+- All In One
+- RISC-V CPU board
+- E-ink screen
+- (?) USB 4 type C (also for charging)
+- Floflis Base (Ubuntu RISC-V - if possible, Home layer)
+
+mr
+- Floflis Screens
+- full portrait cam
+
+c
+- Test in small c (rdn)
+- Grphn bt using dv+salt
+- Recharge on brake and other events
