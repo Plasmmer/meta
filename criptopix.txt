@@ -1,0 +1,17 @@
+- first requirement: declare person IR/tax
+
+- CNPJ (micro MEI, SLU)
+- NBank PJ acc
+- Un-automatic site for initial tests
+- shouldnt support phone refill/bills (let it to Bitbol so both coexist peacefully)
+
+BTC is at 43K
+User exchanges 1,01 BTC for 43K at Criptopx
+Criptopx spent 43K and holds 1,01 BTC
+BTC is at 56K
+Criptopx earns from 0,01 BTC fee and the 43K spent has been yield on the 1 BTC received
+-----
+Criptopix uses Pix to send FIAT from its reserve (15,000 BRL, scalonable; increased to 25,000 at weekends)
+-----
+This is for selling, Cripto > FIAT
+And for buying, use rmp

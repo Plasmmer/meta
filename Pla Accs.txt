@@ -1,0 +1,10 @@
+- Ogt MySQL acc
+- Flf JSON acc
+- Criptopix JSON acc
+- Gamlr MySQL acc
+
+- Pla Accs, merge with Ogt
+
+- Merge Pla Accs with Criptopix, Flf, Gamlr
+
+- Merge Pla Accs with Mtn, Mtx

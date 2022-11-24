@@ -1,0 +1,12 @@
+Use Cases do ClientID:
+- Passar CPF/endereço/telefone em público
+- Enviar número telefone pra don de maquininha enviar comprovante via SMS
+
+Como funciona:
+O ClientID armazena esses dados no telefone.
+Então, quando solicitados por algum estabelecimento, o user clica pra enviar os dados solicitados via NFC ou QR code.
+O estabelecimento pode ter o ClientID ou o Emporium.
+
+ClientID was firstly concepted in 2011.
+First twt referencing ClientID: https://twitter.com/DaniMesqBR/status/1552353704384380929?s=19
+New update for ClientID: QR scanning, account+KYC and proof-of-unique+NFT

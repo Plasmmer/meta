@@ -1,0 +1,50 @@
+Size of a PS VR processing unit
+
+NeTVision Basic (rpi zero w) - for SD TVs
+NeTVision PRO (orange pi) - for HD TVs
+NeTVision GBlock (soon)
+
+Gamepad - OmniSound (rpi pico - https://bit.ly/3t25tLJ)
+- core that can be moved from gamepad to tvcontrol to pointer to mouse to mobile gamepad [CORE]
+- bluetooth, usb (pairs with any console) [CORE]
+- Two joysticks (one is positionable) [CASE]
+- Buttons (directional, action, options/share, LR) [CASE]
+- enable to update firmware [CORE]
+- accelerometer/gyroscope [CORE]
+- qi charging (https://bit.ly/32TLu7x) [CORE]
+- RF harvesting (https://bit.ly/3sY4jB6, https://ebay.to/3eTO7Zh) [CORE]
+- solar charging [CASE]
+- viscoelastic case, ergonomic and replaceable [CASE]
+- spatial sound in hands [CASE]
+- LED line (multi-colors and dark/neon) [CASE]
+Ready 5 gamepads:
+- bluetooth [CORE]
+- Two joysticks [CASE]
+Pending hard:
+- Basic battery [CORE]
+- 2000mAh Battery and its charger [CASE]
+- USB C port (charges, exchange data as a peripheral) [CORE]
+- Sound buzzer (or full speaker)
+Pending soft:
+- Identify as peripheral (gamepad) via USB (Core+Case)
+- Identify as peripheral (gamepad) via Bluetooth (Core+Case)
+- Battery status (Core, Case)
+
+OmniSound cases insp:
+https://bit.ly/3GgzFql
+
+https://htvbrasil.com/htv7/
+https://lista.mercadolivre.com.br/tv-box-htv#D[A:TV%20box%20HTV]
+
+NeTVision common features:
+- NeTVision app/OS
+- TV receptor
+- HDMI output
+- Netflix (or also HBO, Hulu, Disney+)
+
+NeTVision Basic features:
+- AV and UHF output
+
+NeTVision PRO features: 
+
+NeTVision GBlock features:
