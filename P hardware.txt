@@ -87,3 +87,24 @@ Plasmmer Pulse:
 Plasmmer Glass:
 - Use PC/VBox as serv
 - AR like the Appl concept for PG
+
+p rotomphone 1.0:
+- NFC to enter the rotom phone mode/UI
+https://www.sparkfun.com/news/2140
+https://www.yeggi.com/q/rotom+phone/
+
+p pball 1.0:
+- design contest for a resizeable pokeball using grids
+-
+https://create.arduino.cc/projecthub/MarJoh/arduino-pokeball-5555d8
+https://www.hackster.io/MarJoh/arduino-pokeball-5555d8?ref=list&ref_id=21902&offset=0
+https://www.hackster.io/hypnopompia/pokemon-detecting-pokeball-aa1162?ref=list&ref_id=21902&offset=3
+https://www.reddit.com/r/pokemongodev/comments/bvnlue/is_it_possible_to_emulate_pokeballplus_on_teensy/
+https://www.reddit.com/r/pokemongodev/comments/qdbjme/emulate_pogo_plus_on_raspberry_pi/
+https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/
+https://hackaday.io/project/12680-pokemon-go-plus-diy
+https://github.com/yohanes/pgpemu
+https://github.com/Jesus805/pokeball-rs
+https://www.youtube.com/watch?v=e4ONmgzD5uU
+https://hackaday.com/2018/11/26/poke-ball-plus-teardown-reveals-no-pikachu-inside/
+https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ball: Poké Balls are not always at full size. Pressing the button on the front will convert it between its full size, about the size of a baseball, to a smaller size, about that of a ping-pong ball, and back again. The larger size makes throwing the ball easier, while the smaller one makes for easier storage on a belt clip, in pockets, and in Bags. When a Trainer Dynamaxes or Gigantamaxes a Pokémon, the Poké Ball expands to the size of an association football.
