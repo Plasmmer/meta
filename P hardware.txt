@@ -95,6 +95,8 @@ https://www.yeggi.com/q/rotom+phone/
 
 p pball 1.0:
 - design contest for a resizeable pokeball using grids
+https://movies.stackexchange.com/questions/68894/in-pok%C3%A9mon-why-do-the-pokeballs-change-size
+https://www.pokecommunity.com/showthread.php?t=425898
 -
 https://create.arduino.cc/projecthub/MarJoh/arduino-pokeball-5555d8
 https://www.hackster.io/MarJoh/arduino-pokeball-5555d8?ref=list&ref_id=21902&offset=0
