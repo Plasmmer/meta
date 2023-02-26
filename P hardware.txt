@@ -88,6 +88,12 @@ Plasmmer Glass:
 - Use PC/VBox as serv
 - AR like the Appl concept for PG
 
+Chair Pen development
+https://produto.mercadolivre.com.br/MLB-2850691713-caneta-montblanc-esferografica-black-_JM#backend=item_decorator&backend_type=function&client=bookmarks-polycard
+https://produto.mercadolivre.com.br/MLB-2753675203-1-refil-balpen-de-caneta-montblac-cor-preta-media-original-_JM#backend=item_decorator&backend_type=function&client=bookmarks-polycard
+https://produto.mercadolivre.com.br/MLB-1767742543-seeeduino-xiao-samd21-cortex-m0-compativel-com-arduino-_JM#backend=item_decorator&backend_type=function&client=bookmarks-polycard
+https://produto.mercadolivre.com.br/MLB-2052528261-caneta-nintendo-switch-mario-maker-2-kit-com-3-canetas-_JM#backend=item_decorator&backend_type=function&client=bookmarks-polycard
+
 p rotomphone 1.0:
 - NFC to enter the rotom phone mode/UI
 https://www.sparkfun.com/news/2140
